@@ -1,0 +1,28 @@
+{
+  "pages": [
+    {
+      "id": "Top Products",
+      "isDefault": true
+    },
+    {
+      "id": "Add New Products",
+      "isDefault": false
+    },
+    {
+      "id": "Product Details Page",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#CCCCCC",
+  "icon": "book",
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
