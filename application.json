@@ -11,6 +11,10 @@
     {
       "id": "Product Details Page",
       "isDefault": false
+    },
+    {
+      "id": "Customer Detail",
+      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -18,6 +22,9 @@
   "unreadCommentThreads": 0,
   "color": "#CCCCCC",
   "icon": "book",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
