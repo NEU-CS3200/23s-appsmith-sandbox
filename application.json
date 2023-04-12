@@ -23,7 +23,7 @@
   "color": "#CCCCCC",
   "icon": "book",
   "unpublishedAppLayout": {
-    "type": "DESKTOP"
+    "type": "FLUID"
   },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
